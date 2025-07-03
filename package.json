@@ -1,0 +1,20 @@
+{
+  "name": "webp-compressor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node convert-webp.js"
+  },
+  "keywords": [],
+  "author": "Andres Villarreta",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs-extra": "^11.3.0",
+    "minimist": "^1.2.8",
+    "node-file-dialog": "^1.0.3",
+    "path": "^0.12.7",
+    "sharp": "^0.34.2"
+  }
+}
