@@ -7,7 +7,7 @@ A Node.js tool for compressing images to WebP format.
 To install the package, run:
 
 ```bash
-npm install webp-image-compressor
+npm install
 ```
 
 ## Start
